@@ -1,0 +1,4 @@
+git clone https://github.com/adipatiarya/telkomsel-api.git # atau klon sendiri fork 
+cd telkomsel-api
+npm install
+npm mulai
